@@ -1,0 +1,12 @@
+.DS_Store
+.tmp/
+coverage/
+reports/
+dist/
+node_modules/
+*.log
+*.js.map
+*.orig
+.project
+.settings/
+.idea/
